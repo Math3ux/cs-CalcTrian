@@ -1,0 +1,13 @@
+F:\Repositorio VS\CalcTrian\CalcTrian\bin\Debug\netcoreapp3.1\CalcTrian.exe
+F:\Repositorio VS\CalcTrian\CalcTrian\bin\Debug\netcoreapp3.1\CalcTrian.deps.json
+F:\Repositorio VS\CalcTrian\CalcTrian\bin\Debug\netcoreapp3.1\CalcTrian.runtimeconfig.json
+F:\Repositorio VS\CalcTrian\CalcTrian\bin\Debug\netcoreapp3.1\CalcTrian.runtimeconfig.dev.json
+F:\Repositorio VS\CalcTrian\CalcTrian\bin\Debug\netcoreapp3.1\CalcTrian.dll
+F:\Repositorio VS\CalcTrian\CalcTrian\bin\Debug\netcoreapp3.1\CalcTrian.pdb
+F:\Repositorio VS\CalcTrian\CalcTrian\obj\Debug\netcoreapp3.1\CalcTrian.csprojAssemblyReference.cache
+F:\Repositorio VS\CalcTrian\CalcTrian\obj\Debug\netcoreapp3.1\CalcTrian.AssemblyInfoInputs.cache
+F:\Repositorio VS\CalcTrian\CalcTrian\obj\Debug\netcoreapp3.1\CalcTrian.AssemblyInfo.cs
+F:\Repositorio VS\CalcTrian\CalcTrian\obj\Debug\netcoreapp3.1\CalcTrian.csproj.CoreCompileInputs.cache
+F:\Repositorio VS\CalcTrian\CalcTrian\obj\Debug\netcoreapp3.1\CalcTrian.dll
+F:\Repositorio VS\CalcTrian\CalcTrian\obj\Debug\netcoreapp3.1\CalcTrian.pdb
+F:\Repositorio VS\CalcTrian\CalcTrian\obj\Debug\netcoreapp3.1\CalcTrian.genruntimeconfig.cache
